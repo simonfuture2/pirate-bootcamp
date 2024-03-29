@@ -1,12 +1,18 @@
-# 🏴‍☠️ Solana Pirate Bootcamp
+# 🏴‍☠️ W3MCT x Solana ROYALz-Pirate Workshop
 
 <p width="full" margin="auto" align="center" style = "background:gray"><img src="https://raw.githubusercontent.com/solana-developers/pirate-bootcamp/main/assets/ship-fire-1.png" alt="ship" width="350" margin="auto" align="center" bg="white"/></p>
 
-Ahoy! Ready to embark on a pirate-themed coding adventure? Join our Solana programming bootcamp and discover the treasures of blockchain development. Learn to build smart contracts and DApps using our hands-on approach and practical coding exercises. Set sail with us and become a Solana pirate!
+ARRRRP YERRRP, Welcome to the ROYALz CoastLine!
+
+Enjoy our soldev lesson based on a collaboration between our very own ROYALz NFT, SPL Token, and Pirate NFT for a coding adventure? 
+
+W3MCT Solana programming workshop and discover the treasures of blockchain development. Learn to write/build/deploy smart programs (contracts) and dApps using our hands-on approach with practical coding exercises. 
+
+Set sail with us and become a Soldev ROYALz-Pirate!
 
 ---
 
-Interested in conducting this bootcamp, are ye?
+Interested in conducting this workshop, are ye?
 [How to Conduct this Bootcamp](./setup/README.md)
 
 ---
